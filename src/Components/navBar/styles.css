@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    flex-wrap: nowrap;
+    padding-bottom: 3em;
+  }
+  
+  .navbar button{
+    font-size: 1rem;
+    font-weight: 600;
+    background: #FFFFFF;
+    cursor: pointer;
+    border-color: white;
+      border-radius: 0.2rem;
+  }
+  .navButton{
+      color: white;
+  background-color: #007EFF !important; /* use inline styling later */
+  }

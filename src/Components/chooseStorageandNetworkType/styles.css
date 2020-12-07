@@ -1,0 +1,53 @@
+.network-card{
+    background: #ffffff;
+    margin-left: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
+.tagName{
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+color: #000000;
+margin-top: 0.3rem;
+
+}
+
+.tagItem{
+    margin-top: 0.5rem;
+}
+
+.selectItem{
+    width: 7rem;
+}
+.selectTag{
+    background: #FFFFFF;
+/* border: 1px solid #007EFF;
+border-radius: 8px; */
+}
+.encryption-radio,.backup-radio {
+    height: 1rem;
+    width: 1rem;
+    padding: 0.5em;
+    -webkit-appearance: none;
+    outline: 0.1em solid black;
+    outline-offset: 0.1em;
+    margin-top: 0.9rem;
+  }
+  
+  .encryption-radio,.backup-radio {
+    display: inline-block;
+    background: #007EFF;
+  }
+
+  .add-volume{
+      display: flex;
+    background: #A0A4A8;
+    box-shadow: 0px 8px 16px rgba(160, 164, 168, 0.35);
+    border-radius: 8px;
+    margin-left: 1rem;
+  }
+  .delete{
+      margin-left: 1.5rem;
+  }

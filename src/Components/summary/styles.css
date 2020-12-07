@@ -1,0 +1,49 @@
+.instance{
+    width: 17rem;
+    height: 10rem;
+    margin-left: 1rem;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.25);
+    border-radius: 6px;
+}
+.instance-type{
+font-weight: 600;
+font-size: 32px;
+line-height: 39px;
+text-align: left;
+padding-left: 0.5rem;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+.selected-types{
+    font-weight: normal;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #000000;
+
+}
+
+.image,.instance-title{
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    color: #000000;
+    text-align: left;
+    margin-left: 1rem;
+}
+
+.instance-title{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+.edit{
+    cursor: pointer;
+    color: blue;
+}
